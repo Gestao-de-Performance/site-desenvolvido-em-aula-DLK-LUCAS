@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.marginsite{
+    margin: 0 15%;
+}
+header{
+    padding-top: 1%;
+}
+.alinhardiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.gapdiv{
+    gap: 20%;
+}
+.gapdivgradblog{
+    gap: 20%;
+}
+.gapdivcad{
+    gap: 20%;
+}
